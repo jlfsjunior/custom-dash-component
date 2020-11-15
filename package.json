@@ -18,6 +18,10 @@
   "dependencies": {
     "@material-ui/core": "^4.9.2",
     "@material-ui/icons": "^4.9.1",
+    "@visx/group": "^1.0.0",
+    "@visx/mock-data": "^1.0.0",
+    "@visx/scale": "^1.1.0",
+    "@visx/shape": "^1.1.0",
     "ramda": "^0.26.1"
   },
   "devDependencies": {
